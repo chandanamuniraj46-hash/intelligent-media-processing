@@ -1,6 +1,6 @@
 # Image Processing & Analysis API
 
-## Overview
+## Overview of this project
 
 This project is an asynchronous image processing system that allows users to upload images, process them in the background, and retrieve analysis results through APIs.
 
